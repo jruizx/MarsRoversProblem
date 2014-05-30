@@ -1,0 +1,10 @@
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsController\bin\Debug\Mission.txt
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsController\bin\Debug\MarsController.exe
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsController\bin\Debug\MarsController.pdb
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsController\bin\Debug\MarsRovers.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsController\bin\Debug\nunit.framework.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsController\bin\Debug\MarsRovers.pdb
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsController\bin\Debug\nunit.framework.xml
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsController\obj\x86\Debug\MarsController.csprojResolveAssemblyReference.cache
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsController\obj\x86\Debug\MarsController.exe
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsController\obj\x86\Debug\MarsController.pdb

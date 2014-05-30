@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="220BC6C0-D8F7-4D11-9016-AEE4966F57F3" ModuleId="MarsRovers" />
+  <Module PersistentId="B8614C17-E3EC-4467-8026-AA3F2E3B5525" ModuleId="MarsController" />
+</Modules>

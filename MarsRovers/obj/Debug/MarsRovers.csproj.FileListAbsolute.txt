@@ -1,0 +1,6 @@
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsRovers\bin\Debug\MarsRovers.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsRovers\bin\Debug\MarsRovers.pdb
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsRovers\bin\Debug\nunit.framework.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsRovers\bin\Debug\nunit.framework.xml
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsRovers\obj\Debug\MarsRovers.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\MarsRovers\MarsRovers\obj\Debug\MarsRovers.pdb

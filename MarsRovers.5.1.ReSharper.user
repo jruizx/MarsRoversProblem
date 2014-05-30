@@ -1,0 +1,225 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:Coordinates.cs" caret="426" fromTop="19" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:EastOrientation.cs" caret="0" fromTop="0" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:NoOrientation.cs" caret="444" fromTop="13" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:NorthOrientation.cs" caret="506" fromTop="19" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:SouthOrientation.cs" caret="504" fromTop="19" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:WestOrientation.cs" caret="505" fromTop="19" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:OutOfPlateauException.cs" caret="161" fromTop="8" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/d:Tests/f:PlateauTests.cs" caret="95" fromTop="0" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:OrientationFactory.cs" caret="0" fromTop="0" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:IOrientation.cs" caret="191" fromTop="7" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/d:Tests/f:RoverTests.cs" caret="11083" fromTop="25" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:MarsController.cs" caret="2075" fromTop="63" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:MarsController.cs" caret="204" fromTop="12" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:Plateau.cs" caret="638" fromTop="20" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:Rover.cs" caret="1558" fromTop="17" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:Mission.txt" caret="7" fromTop="1" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:Program.cs" caret="173" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:MarsController.cs" caret="1085" fromTop="18" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:IOrientation.cs" caret="200" fromTop="7" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:OrientationFactory.cs" caret="569" fromTop="22" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:OrientationFactory.cs" caret="0" fromTop="0" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:MarsController.cs" caret="486" fromTop="8" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:MarsController.cs" caret="959" fromTop="17" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:MarsController.cs" caret="2578" fromTop="29" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:MarsController.cs" caret="2509" fromTop="31" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:MarsController.cs" caret="2542" fromTop="34" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/d:Tests/f:RoverTests.cs" caret="11501" fromTop="5" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:MarsController.cs" caret="129" fromTop="7" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:MarsController.cs" caret="1136" fromTop="17" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:MarsController.cs" caret="1508" fromTop="27" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:MarsController.cs" caret="2075" fromTop="30" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:MarsController.cs" caret="204" fromTop="0" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:Program.cs" caret="1176" fromTop="83" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:Plateau.cs" caret="991" fromTop="31" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:Program.cs" caret="445" fromTop="12" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:Plateau.cs" caret="638" fromTop="23" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:Rover.cs" caret="2621" fromTop="37" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:Program.cs" caret="753" fromTop="8" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:Program.cs" caret="1176" fromTop="18" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:Rover.cs" caret="2055" fromTop="37" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:Rover.cs" caret="1971" fromTop="33" />
+      <File id="220BC6C0-D8F7-4D11-9016-AEE4966F57F3/f:Rover.cs" caret="1550" fromTop="20" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:Program.cs" caret="967" fromTop="4" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:Program.cs" caret="1176" fromTop="34" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:Program.cs" caret="31" fromTop="1" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:Mission.txt" caret="40" fromTop="4" />
+      <File id="B8614C17-E3EC-4467-8026-AA3F2E3B5525/f:Program.cs" caret="209" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="26" />
+      <Item value="void" priority="12" />
+      <Item value="var" priority="17" />
+      <Item value="new" priority="32" />
+      <Item value="roger" priority="4" />
+      <Item value="private" priority="8" />
+      <Item value="int" priority="6" />
+      <Item value="x" priority="6" />
+      <Item value="this" priority="12" />
+      <Item value="y" priority="1" />
+      <Item value="coordinates" priority="20" />
+      <Item value="Coordinates`0" priority="15" />
+      <Item value="Orientation`0" priority="4" />
+      <Item value="orientation" priority="8" />
+      <Item value="return" priority="33" />
+      <Item value="Assert`0" priority="4" />
+      <Item value="Is`0" priority="3" />
+      <Item value="override" priority="5" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="AppDomainSetup`0" priority="0" />
+      <Item value="endCoordinates" priority="0" />
+      <Item value="ITestAction`0" priority="1" />
+      <Item value="West" priority="0" />
+      <Item value="IOrientation`0" priority="6" />
+      <Item value="EastOrientation`0" priority="6" />
+      <Item value="WestOrientation`0" priority="6" />
+      <Item value="SouthOrientation`0" priority="6" />
+      <Item value="NorthOrientation`0" priority="8" />
+      <Item value="Roger`0" priority="0" />
+      <Item value="NoOrientation`0" priority="1" />
+      <Item value="static" priority="2" />
+      <Item value="char" priority="0" />
+      <Item value="string" priority="10" />
+      <Item value="description" priority="1" />
+      <Item value="if" priority="8" />
+      <Item value="obj" priority="0" />
+      <Item value="is" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="true" priority="2" />
+      <Item value="Coordinates" priority="2" />
+      <Item value="Plateau`0" priority="4" />
+      <Item value="upperLeft" priority="5" />
+      <Item value="coordinatesToCheck" priority="2" />
+      <Item value="false" priority="2" />
+      <Item value="AssertionException`0" priority="0" />
+      <Item value="ExpectedException" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="plateau" priority="4" />
+      <Item value="nextPosition" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="OutOfPlateauException" priority="0" />
+      <Item value="message" priority="0" />
+      <Item value="Console`0" priority="2" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="FileStyleUriParser`0" priority="0" />
+      <Item value="count" priority="3" />
+      <Item value="line" priority="0" />
+      <Item value="definition" priority="0" />
+      <Item value="stringCoordinates" priority="1" />
+      <Item value="Plateau" priority="0" />
+      <Item value="CreatePlateau`0" priority="0" />
+      <Item value="rogerCount" priority="0" />
+      <Item value="rover" priority="9" />
+      <Item value="Rover" priority="0" />
+      <Item value="pleateau" priority="0" />
+      <Item value="Rover`0" priority="2" />
+      <Item value="CreateRover`0" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="5" />
+      <Item value="default" priority="0" />
+      <Item value="OrientationFactory`0" priority="0" />
+      <Item value="coordinatesAndOrientation" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="ExecutadCommands`0" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="1" />
+      <Item value="commandDefinitions" priority="1" />
+      <Item value="break" priority="2" />
+      <Item value="const" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MarsRovers.Tests.Coordinates">
+      <Item value="x" priority="0" />
+      <Item value="y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MarsRovers.Roger">
+      <Item value="coordinates" priority="2" />
+      <Item value="orientation" priority="1" />
+      <Item value="Coordinates" priority="2" />
+      <Item value="Orientation" priority="2" />
+      <Item value="GetPosition`0" priority="0" />
+      <Item value="Advance`0" priority="0" />
+      <Item value="SetPlateau`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="EqualTo`0" priority="2" />
+      <Item value="True" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MarsRovers.Coordinates">
+      <Item value="x" priority="1" />
+      <Item value="SetX`0" priority="1" />
+      <Item value="X" priority="7" />
+      <Item value="Y" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MarsRovers.Orientation">
+      <Item value="North" priority="1" />
+      <Item value="West" priority="0" />
+      <Item value="South" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MarsRovers.IOrientation">
+      <Item value="TurnLeft`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetHashCode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MarsRovers.Plateau">
+      <Item value="AreCoordinatesInside`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="ReadAllLines`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="0" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MarsRovers.Rover">
+      <Item value="SetPlateau`0" priority="2" />
+      <Item value="Init`0" priority="0" />
+      <Item value="GetPosition`0" priority="0" />
+      <Item value="TurnLeft`0" priority="0" />
+      <Item value="TurnRight`0" priority="0" />
+      <Item value="Advance`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MarsRovers.OrientationFactory">
+      <Item value="GenerateOrientation`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
